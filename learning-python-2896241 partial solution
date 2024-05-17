@@ -1,0 +1,14 @@
+def is_palindrome(teststr):
+#method slices string to check length
+if teststr == teststr[::-1]:
+    return True
+else:
+    return False
+
+teststr = input("Enter string to test for palindrome, or enter exist:")
+
+if teststr == "exit":
+        run = False
+        break
+
+    

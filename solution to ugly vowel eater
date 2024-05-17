@@ -1,0 +1,15 @@
+user_word =input("Please enter your word to digester of vowels:")
+user_word = user_word.upper()
+
+for letter in user_word:
+    if letter == str("A"):
+        continue
+    elif letter == str("E"):
+        continue
+    elif letter == str("I"):
+        continue
+    elif letter == str("O"):
+        continue
+    elif letter == str("U"):
+        continue
+    print(letter)

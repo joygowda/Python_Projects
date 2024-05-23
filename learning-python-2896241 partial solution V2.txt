@@ -1,0 +1,33 @@
+
+show_expected_result = False
+show_hints = False
+
+teststr = input(" Enter string to test for palindrome, or enter exit:" )
+
+#remove case of inputted word
+teststr = teststr.lower
+
+
+#remove punctuation if present
+#gotta fix keybord to get typo fixed
+punc = "'~()-{}[];:'",<>./?@#$%^&*_!'\"
+
+    for ele in teststr:
+     if ele not in punc:
+         ele = teststr
+
+
+def is_palindrome(teststr):
+#method slices string to check length
+
+if teststr == teststr[::-1]:
+    return True
+else:
+    return False
+
+
+if teststr == "exit":
+        run = False
+        break
+
+    

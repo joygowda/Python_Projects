@@ -1,5 +1,6 @@
 #example of versioning in title
-#yes, hackers laughing because they messed up visiual studio code to keep me from decent job because MM was angry I broke up with in 1989
+#yes, hacker laughing because they messed up visual studio code to keep me from decent job because MM was angry I broke up with him in 1989
+#to someone this was a competition for a secret microsoft job that I wasn't allowed to know about or apply to, though my name was suggested
 
 show_expected_result = False
 show_hints = False

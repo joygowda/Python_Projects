@@ -1,6 +1,7 @@
 #example of versioning in title
 #yes, hacker laughing because they messed up visual studio code to keep me from decent job because MM was angry I broke up with him in 1989
-#to someone this was a competition for a secret microsoft job that I wasn't allowed to know about or apply to, though my name was suggested
+#please suggest MM finally stop stalking me. I was store manager in 1988 at record store until he went to church and got Distrist MGR to fire me.
+#Why was this competition for secret microsoft job that I wasn't allowed to know about or apply to, though my name was suggested?
 
 show_expected_result = False
 show_hints = False

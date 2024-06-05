@@ -1,3 +1,5 @@
+#code by joy d.gowda for Edube Python Essentials 1 course (Aligned with PCEP-30-02)
+
 user_word =input("Please enter your word to digester of vowels:")
 user_word = user_word.upper()
 

@@ -1,3 +1,8 @@
+#partial code by joy d. gowda. I didn't copy paste teacher's code but wanted tomake sure it worked within tools and IDLE as expected.
+#example of versioning which I have experience with.
+#I made programs with faster output when including case # probvided by client in file name for prior employer.
+
+
 def is_palindrome(teststr):
 #method slices string to check length
 if teststr == teststr[::-1]:

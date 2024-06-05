@@ -1,4 +1,6 @@
-﻿beatles = []
+#code by joy dhairyalakshmi gowda
+
+beatles = []
 # step 1
 print("Step 1:", beatles)
 

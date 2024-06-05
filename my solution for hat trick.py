@@ -1,3 +1,5 @@
+#code by joy d. gowda
+
 hat_list = [1, 2, 3, 4, 5]  # This is an existing list of numbers hidden in the hat.
 
 # Step 1: write a line of code that prompts the user

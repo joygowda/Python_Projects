@@ -1,4 +1,6 @@
-﻿my_tuple = (1, 10, 100)
+#code by joy d.gowda for Edube Python Essentials 1 course (Aligned with PCEP-30-02)
+
+my_tuple = (1, 10, 100)
 
 t1 = my_tuple + (1000, 10000)
 t2 = my_tuple * 3

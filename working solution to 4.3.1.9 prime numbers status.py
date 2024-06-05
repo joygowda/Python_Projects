@@ -1,5 +1,7 @@
-﻿def is_prime(num):
-#
+#code by joy d.gowda for Edube Python Essentials 1 course (Aligned with PCEP-30-02)
+
+def is_prime(num):
+
     if num ==1:
         print(f"{num} is not a prime number")
     elif num > 1:

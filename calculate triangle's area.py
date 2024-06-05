@@ -1,4 +1,6 @@
-﻿def is_a_triangle(a, b, c):
+#code by joy d.gowda
+
+def is_a_triangle(a, b, c):
     return a + b > c and b + c > a and c + a > b
 
 

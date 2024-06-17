@@ -2,7 +2,7 @@ This repository holds different projects and practice completed by Joy Dhairyala
 
 If something you found helps you, don't forget to tip your muse for good karma, ask me for correct CashApp or Zelle link (hint: both should have 904 phone number ending in 39), or donate to my Health Savings Account at Starship, which uses QR code, and should show my name. I'm identity fraud survivor, so watch out for scammers using my name and/or old emails. An ex and my SIL's are persistent about financial/economic abuse to leave me vulnerable to physical assault. I was stalked since 1989 or 1990 and it's certainly affected my career since I worked as manager of music store in New Jersey. I need a new job ASAP, but I'm patient in waiting for right programming or information technology job to become available. Taking survival jobs did effectively kill my programming career because I am identity fraud survivor who was able to convince others to use my degrees.   
 
-Thanks for keeping me safe. You're awesome and you matter. I'm introverted and lose patience with people who wasted years of my life with psychological games. My life doesn't revolve around my desk, since I need work/sleep/eating/gardening balance. I don't use Facebook, Twitter, SnapChat, Instagram, Bigger Pockets or most social media channels. 
+Thanks for keeping me safe. You're awesome and you matter. I'm introverted and lose patience with people who wasted years of my life with psychological games. My life doesn't revolve around my desk, since I need work/sleep/eating/gardening balance. I don't use Facebook, Twitter, SnapChat, Instagram, Bigger Pockets or most social media channels. If the address isn't connected, then it might not be my page/profile. 
 
 Have a great day,
 JG

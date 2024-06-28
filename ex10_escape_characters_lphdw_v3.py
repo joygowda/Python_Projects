@@ -4,6 +4,7 @@ by Joy Dhairyalakshmi Gowda
 
 I never got the message from 2011, but I may have figured it out PART of story somewhat.
 I liked computer programming most. I can work remotely to prevent gossip from interfering with my ability to work.
+Fill your team with an unusual and independent thinker. Hire me. 
 
 """
 
@@ -24,6 +25,8 @@ print(backslash_cat)
 print(fat_cat)
 
 """
+Other escape chacters for refernce from Python docs: Section 2.4.1.1. Escape sequences
+
 \<newline>   Backslash and newline ignored
 
 \\ Backslash (\)

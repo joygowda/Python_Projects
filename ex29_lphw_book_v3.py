@@ -36,9 +36,9 @@ if people >= cats:
     print("People are greater than or equal to cats.")
 
 if people <= cats:
-    print("People have to make sure outdoor and feral cats are spayed and neutered starting now.")
+    print("Oops. People have to make sure outdoor and feral cats are spayed and neutered starting now!")
 
-is people == cats:
+if people == cats:
     print("People are cats.")
 
     

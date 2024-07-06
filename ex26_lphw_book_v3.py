@@ -7,6 +7,7 @@ Book is currently on 5th edition, so I saved copy of 3rd edition from landfill. 
 Sadly, an identity fraud got "vouches" to use my technology degrees, so was working when I couldn't get any interest in my resume. My nerdy & introvert problem because some people didn't WANT to talk to me. 
 My family didn't support college education, or me pursing college in my youth, despite high school college prep cirriculum. 
 Don't trust what my family has to say about me on Facebookor social media, since they didn't even both to know me BUT stole resumes and other stuff to get $ by being me. 
+HELLO, I'm still not Peaches....but UNTIL you get drug testing of the people who give you "information", I hope you rot in hell...
 """
 
 

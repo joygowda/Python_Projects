@@ -3,7 +3,7 @@ Exercise 26; Halfway point test from Book: Learn Python the Hard Way v3
 Coded by Joy Dhairyalakshmi Gowda
 """
 #to be added if I can find website archived elsewhere
-#Book is on version 5, but I have a small budget to learn, so reserve most $ for certification exams
+#Book is currently on %th edition, so I saved copy of 3rd edition from landfill. I have a micro budget to spend on learning, so reserve most $ for certification exams.
 
 
 

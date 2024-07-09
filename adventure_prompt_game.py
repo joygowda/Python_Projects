@@ -26,7 +26,7 @@ if door == "1":
     elif bear == "42":
         print("The answer is not 42 here. But the bear sits down and wants to hear the story.")
     elif bear == "6":
-        print("Do I look like Dr. Who? Nope. Let's make some popcorn and watch episode of new season instead of visit with this bear.")
+        print("Do I look like Dr. Who? Nope. Let's make some buttered popcorn and watch an episode, instead of visit with this bear.")
     elif bear == "7":
         print("So smart you are, you ran away from the bear! Lucky you!")
     elif bear == "8":
@@ -34,9 +34,23 @@ if door == "1":
     elif bear == "9":
         print("The giant bear killed you immediately. You have earned a good reincarnation, so let's go there now!")
     elif bear == "0":
-        print("The operator cannot help you. Please the program over.")
+        print("The operator cannot help you. Please start the program over.")
+    elif bear == "16":
+        print("Wasting time won't save you, or those behind you.")
+    elif bear == "1984":
+        print("By 1999, it's the last year to change the environment to prevent or reduce global warning. \n Earth was terraformed. 2084 is first year of no more fresh or clean air or water.")
+    elif bear == "1989":
+        print("Sorry, you died. The muse wasn't paid and she knew that bear.")
+    elif bear == "2007":
+        print("No solution. Apocalypse started in 2007.")
+    elif bear == "2034":
+        print("In perfect world, we'd have planetary weapons defense by 2034.")
+    elif bear == "2021":
+        print("In perfect life, I'd have been a programmer for twenty years now. I still don't regret my 3 sons.")
+    elif bear == "2011":
+        print("I disagree. Women should be working in STEM to find solutions that men might otherwise overlook.")
     elif bear == "2371":
-        print("No, this isn't Voyager's launch. You lost a lot of blood and you are in shock. Call 911 now.")
+        print("No, this isn't Voyager's launch. You lost a lot of blood and you are in shock. Call 911 right now.")
     else:
         print("Well, doing %s is probably better. Bear runs away. ") %bear
 
@@ -59,7 +73,7 @@ elif door == "2":
     elif insanity == "5":
         print("Yes, YOU made the living ship mad, so she showed you that. Find out what she really wants before she gets really angry. She's low on fuel!")
     elif insanity == "6":
-        print("YOU made the living ship mad again. She can knock planet out of orbit if you don't actually make her happy. We all die. She reminded you.")
+        print("YOU made the living ship mad again. She can knock this planet out of orbit if you don't actually make her happy. We all die. She reminded you.")
     elif insanity == "9":
         print("How fortunate you are that you just woke up from a nightmare!")
     elif insanity == "7":

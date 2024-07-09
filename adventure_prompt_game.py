@@ -25,8 +25,10 @@ if door == "1":
         print("Sorry, Firefly is no longer on the air. Go to bed. ")
     elif bear == "42":
         print("The answer is not 42 here. But the bear sits down and wants to hear the story.")
+    elif bear == "6":
+        print("Do I look like Dr. Who? Nope. Let's make some popcorn and watch episode of new season instead of visit with this bear.")
     elif bear == "7":
-        print("So smart you are, you ran away from the bear!")
+        print("So smart you are, you ran away from the bear! Lucky you!")
     elif bear == "8":
         print("Ok, but that book doesn't matter now,does it? The bear ate both hands. \nYou can't dial for help and it's a long walk. Let's get started. ")
     elif bear == "9":
@@ -34,7 +36,7 @@ if door == "1":
     elif bear == "0":
         print("The operator cannot help you. Please the program over.")
     elif bear == "2371":
-        print("No, this isn't Voyager taking off. You lost a lot of blood and you are in shock. Call 911 now.")
+        print("No, this isn't Voyager's launch. You lost a lot of blood and you are in shock. Call 911 now.")
     else:
         print("Well, doing %s is probably better. Bear runs away. ") %bear
 
@@ -49,15 +51,19 @@ elif door == "2":
     if insanity == "1" or insanity == "2":
         print("Your body survives powered by a mind of jello. Tough luck.")
     elif insanity == "3":
-        print("You scared Cthulhu! How is that possible? Go see a plastic surgeon as soon as you can. You need an estimate."              )
+        print("You scared Cthulhu! How is that possible? Go see a plastic surgeon as soon as you can. You need an estimate.")              
     elif insanity == "42":
         print("Too bad. The answer is not 42 here. You died. Start over.")
+    elif insanity == "4":
+        print("Unfortunately, the Matrix is broken. You are stuck here.")
     elif insanity == "5":
-        print("Yes, you made the living ship mad, so she showed you this. Find out what she really wants now. ")
+        print("Yes, YOU made the living ship mad, so she showed you that. Find out what she really wants before she gets really angry. She's low on fuel!")
     elif insanity == "9":
         print("How fortunate you are that you just woke up from a nightmare!")
     elif insanity == "7":
-        print("You died immediately. Good job! Welcome to your afterlife! ")
+        print("You died immediately. Good job! Welcome to your afterlife!")
+    elif insanity == "8":
+        print("You died, but eternity is forever. I'll be there in your next life. Go here now.")
     elif insanity == "0":
         print("Welcome home. Go drink some water, maybe log off and get some rest. You had a tough day. ")
     else:

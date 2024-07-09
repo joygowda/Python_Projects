@@ -30,7 +30,7 @@ if door == "1":
     elif bear == "7":
         print("So smart you are, you ran away from the bear! Lucky you!")
     elif bear == "8":
-        print("Ok, but that book doesn't matter now,does it? The bear ate both hands. \nYou can't dial for help and it's a long walk. Let's get started. ")
+        print("Ok, but that book doesn't matter now, does it? The bear ate both your hands. \nYou can't dial for help and it's a long walk. Let's get started. ")
     elif bear == "9":
         print("The giant bear killed you immediately. You have earned a good reincarnation, so let's go there now!")
     elif bear == "0":
@@ -58,6 +58,8 @@ elif door == "2":
         print("Unfortunately, the Matrix is broken. You are stuck here.")
     elif insanity == "5":
         print("Yes, YOU made the living ship mad, so she showed you that. Find out what she really wants before she gets really angry. She's low on fuel!")
+    elif insanity == "6":
+        print("YOU made the living ship mad again. She can knock planet out of orbit if you don't actually make her happy. We all die. She reminded you.")
     elif insanity == "9":
         print("How fortunate you are that you just woke up from a nightmare!")
     elif insanity == "7":
@@ -67,7 +69,7 @@ elif door == "2":
     elif insanity == "0":
         print("Welcome home. Go drink some water, maybe log off and get some rest. You had a tough day. ")
     else:
-        print("The insanity rots your eyes into a pool of muck. Good job. At least you can still see while you insane!")
+        print("The insanity rots your eyes into a pool of muck. Good job. At least you can still see while you are insane!")
 
 else:
     print("You stumble around and fall on knife and die. Welcome to discussion about your reincarnation.")

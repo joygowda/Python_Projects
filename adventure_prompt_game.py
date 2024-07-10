@@ -4,7 +4,7 @@ Exercise 31:Making Decisions from Book: Learn Python the Hard Way v3 by Zed A. S
 Coded by Joy Dhairyalakshmi Gowda
 """
 
-print("You enter a dark room with two doors. Do you go through door number 1 or door number 2.")
+print("You enter a dark room with two doors. Do you go through door number 1 or door number 2?")
 
 door = input(">>>>>> ")
 
@@ -35,8 +35,22 @@ if door == "1":
         print("The giant bear killed you immediately. You have earned a good reincarnation, so let's go there now!")
     elif bear == "0":
         print("The operator cannot help you. Please start the program over.")
+    elif bear == "10":
+        print("The bear says \'Put the pizza down and go!'")
+    elif bear == "11":
+        print("The butterfly lands on the bear and the bear shatters like glass."
     elif bear == "16":
         print("Wasting time won't save you, or those behind you.")
+    elif bear == "33":
+        print("The bear left the cheesecake. Let's go have a picnic.")
+    elif bear == "55":
+        print("It was a book by Octavia Butler, not a goal.)
+    elif bear == "99":
+        print("Good eye. It's just a guy in a bear suit who's stealing honey from the beehive!")
+    elif bear =="101":
+        print("There's a giant behind the tree. He takes your photo and backs away into the woods.")
+    elif bear == "125":
+        print("There's a fish. Throw it at the bear and run!")
     elif bear == "1984":
         print("By 1999, it's the last year to change the environment to prevent or reduce global warning. \n Earth was terraformed. 2084 is first year of no more fresh or clean air or water.")
     elif bear == "1989":
@@ -55,8 +69,8 @@ if door == "1":
         print("Well, doing %s is probably better. Bear runs away. ") %bear
 
 elif door == "2":
-    print("You stare into the endless abyss at Cthulhu's retina.")
-    print("1. Blueberries")
+    print("You stare into the endless abyss at Cthulhu's retina, so.....")
+    print("1. Blueberries!")
     print("2. Yellow jacket clothespins.")
     print("3. Understanding revolvers yelling melodies.")
 
@@ -73,17 +87,17 @@ elif door == "2":
     elif insanity == "5":
         print("Yes, YOU made the living ship mad, so she showed you that. Find out what she really wants before she gets really angry. She's low on fuel!")
     elif insanity == "6":
-        print("YOU made the living ship mad again. She can knock this planet out of orbit if you don't actually make her happy. We all die. She reminded you.")
-    elif insanity == "9":
-        print("How fortunate you are that you just woke up from a nightmare!")
+        print("YOU made the living ship cry. She can knock this planet out of orbit if you don't actually make her happy. We all die. She reminded you.")
     elif insanity == "7":
+        print("How fortunate you are that you just woke up from a nightmare!")
+    elif insanity == "9":
         print("You died immediately. Good job! Welcome to your afterlife!")
     elif insanity == "8":
-        print("You died, but eternity is forever. I'll be there in your next life. Go here now.")
+        print("You died, but eternity is forever. If we are meant to be together, I'll be there in your next life. Go here now.")
     elif insanity == "0":
         print("Welcome home. Go drink some water, maybe log off and get some rest. You had a tough day. ")
     else:
         print("The insanity rots your eyes into a pool of muck. Good job. At least you can still see while you are insane!")
 
 else:
-    print("You stumble around and fall on knife and die. Welcome to discussion about your reincarnation.")
+    print("You stumble around and fall on knife in the dark and die. Have a seat, and let's discuss your reincarnation.")

@@ -25,6 +25,8 @@ if door == "1":
         print("Sorry, Firefly is no longer on the air. Go to bed. ")
     elif bear == "42":
         print("The answer is not 42 here. But the bear sits down and wants to hear the story.")
+    elif bear == "45":
+        print("Not the best time for physics, so what can you throw at the bear?")
     elif bear == "6":
         print("Do I look like Dr. Who? Nope. Let's make some buttered popcorn and watch an episode, instead of visit with this bear.")
     elif bear == "7":

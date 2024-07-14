@@ -66,7 +66,7 @@ if door == "1":
     elif bear == "2011":
         print("I disagree. Women should be working in STEM to find solutions that men might otherwise overlook.")
     elif bear == "2371":
-        print("No, this isn't Voyager's launch. You lost a lot of blood and you are in shock. Call 911 right now.")
+        print("No, this isn't Deep Space Nine station. You lost a lot of blood and you are in shock. I'll call for help now.")
     else:
         print("Well, doing %s is probably better. Bear runs away. ") %bear
 

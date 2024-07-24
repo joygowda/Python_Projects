@@ -2,8 +2,9 @@
 Lottery ticket generator for Powerball
 Coded by Joy Dhairyalakshmi Gowda
 No guarantee to win or promises, since I haven't won any games. Someone just says mean stuff online to harass me.
+The REAL story involves apartment mailbox pried open for a week in middle to end of Februuary 2011 in Phoenix, AZ, so I assume the sender spend the $.
 Finished project will add statistics with Powerball API, allow user selected numbers and
-add attractive display as I learn more Python.
+add GUI as I learn more Python.
 """
 
 import random

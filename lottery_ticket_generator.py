@@ -1,6 +1,6 @@
 """
 Lottery ticket generator
-Coded by Joy Dhairylaksmi Gowda
+Coded by Joy Dhairyalakshmi Gowda
 No guarantee to win or promises, since I haven't won any games. Someone just says stuff online to harass me.
 Finished project will match Powerball draws
 Will be coded to add comparisons with Powerball API and user selected numbers and attractive display

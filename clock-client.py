@@ -1,3 +1,6 @@
+"""
+coded by Joy Dhairyalakshmi Gowda with some errors in info given that may be resolved later. VSCode shows errors at line 8, line 73, line 83 with mre research
+"""
 from dotenv import load_dotenv
 import os
 import json

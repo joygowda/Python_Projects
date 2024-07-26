@@ -1,6 +1,7 @@
 """
-coded by Joy Dhairyalakshmi Gowda with some errors in info given that may be resolved later. VSCode shows errors at line 8, line 73, line 83 with mre research
+coded by Joy Dhairyalakshmi Gowda with some errors in info given that may be resolved later. VS Code shows errors at line 74, 77, 78, 86, with more research to be done on syntax
 """
+
 from dotenv import load_dotenv
 import os
 import json
@@ -10,7 +11,6 @@ from dateutil.parser import parse as is_date
 # Import namespaces
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.language.conversations import ConversationAnalysisClient
-#VS is showing this indent is a mistake but samplecode matches what is provided by Applied Skills course same as line 73 and line 83
 
 def main():
 
@@ -74,11 +74,11 @@ def main():
             print("query: {}".format(result["result"]["query"]))
 
                 # Apply the appropriate action
-                if top_intent == 'GetTime':
+                if top_intent == "GetTime":
                     location = 'local'
                     # Check for entities
                     if len(entities) > 0:
-                        # Check for a location entity
+                        #Check for a location entity
                         for entity in entities:
                             if 'Location' == entity["category"]:
                                 # ML entities are strings, get the first one
@@ -86,7 +86,7 @@ def main():
                 # Get the time for the specified location
                 print(GetTime(location))
 
-                elif top_intent == 'GetDay':
+                elif top_intent == "GetDay":
                     date_string = date.today().strftime("%m/%d/%Y")
                     # Check for entities
                     if len(entities) > 0:
@@ -98,7 +98,7 @@ def main():
                     # Get the day for the specified date
                     print(GetDay(date_string))
 
-                elif top_intent == 'GetDate':
+                elif top_intent == "GetDate":
                     day = 'today'
                     # Check for entities
                     if len(entities) > 0:

@@ -8,3 +8,5 @@ Thanks for keeping me safe. You're awesome and you matter. I'm introverted and l
 
 Have a great day,
 JG
+
+Ethereum message you aren't hearing was correct, but Bitcoin message has wrong photo. Photo changed in 2011 t favor his first wife and harm second wife (me!). NOTHING WAS DISCUSSED WITH ME. Malicious stalkers threats resulted in this code being written. Good luck.

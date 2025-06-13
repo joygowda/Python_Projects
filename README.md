@@ -9,4 +9,4 @@ Thanks for keeping me safe. You're awesome and you matter. I'm introverted and l
 Have a great day,
 JG
 
-Ethereum message you aren't hearing was correct, but Bitcoin message has wrong photo. Photo changed in 2011 t favor his first wife and harm second wife (me!). NOTHING WAS DISCUSSED WITH ME. Malicious stalkers threats resulted in this code being written. Good luck.
+Did you know facts? Ethereum message you aren't hearing was correct at some point, but Bitcoin message has wrong photo. Photo changed in 2011 to favor his first wife and harm second wife (me!). NOTHING WAS DISCUSSED WITH ME. I wrote snippet of code, but never received payment, nor credit for it to know what project it was used in. I wasn't the Bitcoin programmer. NO money went to me. No business was offered me. The brothel business wasn't mine either. Malicious stalkers threats resulted in SQL code (different repository) being written. My degrees wasted by identity fraud since I lost phone numbers to recover old emails decades after emails were read by the wrong people! 

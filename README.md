@@ -9,4 +9,8 @@ Thanks for keeping me safe. You're awesome and you matter. I'm introverted and l
 Have a great day,
 JG
 
-Did you know facts? I cannot have opinions on either Bitcoin or Ethereum message because NEITHER were delivered to me. NOTHING WAS DISCUSSED WITH ME EITHER. I wrote snippet of code in 2009, but never received payment, nor credit for it to know what project it was used in. I wasn't the Bitcoin programmer. NO money went to me. No business was offered to me to keep promises to third party. The brothel business wasn't mine either. Same name, similar name issues! Malicious stalkers threats resulted in SQL code (different repository) being written. My degrees wasted by identity fraud since I lost phone numbers to recover old emails decades after emails were no longer used, so emails read by the wrong people! Yes, competing dom focuses on irrelevant photo to prevent an important gift from reaching me. Aum Namah Shivah.
+Did you know facts? I cannot have opinions on either Bitcoin or Ethereum message because NEITHER were delivered to me. NOTHING WAS DISCUSSED WITH ME EITHER. I wrote snippet of code in 2009, but never received payment, nor credit for it to know what project it was used in. I wasn't the Bitcoin programmer who wanted myself removed or excluded. NO money went to me. No business was offered to me to keep promises to third party. The brothel business wasn't mine either. Same name/similar name issues! 
+
+Analysis of situation: Malicious stalker resulted in SQL code (different repository) being written. My degrees wasted by identity frauds who edited code here to prevent employment! Ones trolls me over old emails decade after emails were no longer used, so emails read by the wrong people instead! It appears competing dom (while I was inactive) focuses on an old and irrelevant photo to prevent important gifts from reaching me! 
+
+Aum Namah Shivah.

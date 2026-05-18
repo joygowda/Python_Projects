@@ -12,6 +12,6 @@ Analysis of situation: Grifters resulted in SQL code (different repository) bein
 
 So NOW can my family reveal secrets kept from me in Jacksonville because I suspect that it's related to lifetime of identity fraud issues and someone who tried to contact me thru my maiden name regarding Python programming work? 
 
-PS: Yes, I DO mean exactly what I say. Integrity. Only my youngest son of 3 had speech apraxia diagnosis with speech impediment that coexists with rare chromo disorder and other diagnosises, (term "comorbid" doesn't mean death nor dead!), but he COULD be understood by sympathetic people who cared about him. Identity swaps are ALWAYS illegal and unethical. Are we in the version of America that ships US Citizens to random countries completely foreign to them based on people wanting to prevent programming jobs? Is that true?
+PS: Yes, I DO mean exactly what I say. Integrity. Only my youngest son of 3 had speech apraxia diagnosis with speech impediment (surgery needed) that coexists with rare chromo disorder and other diagnosises, (term "comorbid" doesn't mean death nor dead!), but he COULD be understood by sympathetic people who cared about him. Identity swaps are ALWAYS illegal and unethical. Are we in the version of America that ships US Citizens to random countries completely foreign to them based on people wanting to prevent programming jobs? Is that true? YES, because my words here are still confuse me with different woman from different area!!! I miss MY home state!!
 
 Aum Namah Shivah

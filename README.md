@@ -12,6 +12,6 @@ Analysis of situation: Grifters resulted in SQL code (different repository) bein
 
 So NOW can my family reveal secrets kept from me in Jacksonville because I suspect that it's related to lifetime of identity fraud issues and someone who tried to contact me thru my maiden name regarding Python programming work? 
 
-PS: Yes, I DO mean exactly what I say. Only my youngest son of 3 had speech apraxia diagnosis with speech impediment but he COULD be understood by people who cared. I hope people stop playing games and wasting everyone's time soon. Identity swaps are ALWAYS illegal and unethical. Ex created a false prophecy interpretation to harass me with, but it's really about a different woman than me!
+PS: Yes, I DO mean exactly what I say. Integrity. Only my youngest son of 3 had speech apraxia diagnosis with speech impediment but he COULD be understood by people who cared. I hope people stop playing games and wasting everyone's time soon. Identity swaps are ALWAYS illegal and unethical. Ex created interpretation of some false prophecy to harass me with, but it's really about a different woman than me! Are we in the version of America that ships US Citizens to countries completely foreign to them based on jealous exes acting like tyrants to prevent programming job? Is that true?
 
 Aum Namah Shivah
